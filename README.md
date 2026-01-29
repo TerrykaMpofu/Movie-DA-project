@@ -1,2 +1,1 @@
-# Portfolio-Projects
-Collection of portfolio projects.
+Movies data analysis prject using python and its popular libraries.
